@@ -1,16 +1,21 @@
-/* Font styles for Typewriter theme in Obsidian */
+/* Font styles for Obsidian */
 
 /* Body font */
 body {
-    font-family: 'Spectral', serif; /* Change 'Spectral' to the appropriate font name */
+    font-family: 'Spectral', serif;
 }
 
 /* Links font */
 a {
-    font-family: 'Alegreya SC', serif; /* Change 'Alegreya SC' to the appropriate font name */
+    font-family: 'Alegreya SC', serif;
 }
 
 /* Headings font */
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Levibrush', cursive; /* Change 'Levibrush' to the appropriate font name */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    font-family: 'Levibrush', cursive;
 }
