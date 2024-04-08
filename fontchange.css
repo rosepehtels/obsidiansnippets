@@ -1,4 +1,4 @@
-/* Font styles for Obsidian */
+@import url('https://fonts.googleapis.com/css2?family=Spectral&family=Alegreya+SC&display=swap');
 
 /* Body font */
 body {
@@ -11,11 +11,6 @@ a {
 }
 
 /* Headings font */
-.markdown-preview-view h1,
-.markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-preview-view h4,
-.markdown-preview-view h5,
-.markdown-preview-view h6 {
-    font-family: 'Levibrush', cursive;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Reddit Mono', monospace;
 }
