@@ -1,0 +1,16 @@
+/* Font styles for Typewriter theme in Obsidian */
+
+/* Body font */
+body {
+    font-family: 'Spectral', serif; /* Change 'Spectral' to the appropriate font name */
+}
+
+/* Links font */
+a {
+    font-family: 'Alegreya SC', serif; /* Change 'Alegreya SC' to the appropriate font name */
+}
+
+/* Headings font */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Levibrush', cursive; /* Change 'Levibrush' to the appropriate font name */
+}
