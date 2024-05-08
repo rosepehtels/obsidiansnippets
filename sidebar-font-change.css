@@ -1,0 +1,5 @@
+/* Change font of the folder sidebar to Lora */
+.nav-folder-title,
+.nav-folder-title:hover {
+    font-family: 'Lora', serif !important;
+}
