@@ -1,0 +1,5 @@
+/* Change font of the folder sidebar */
+.nav-folder-title,
+.nav-folder-title:hover {
+    font-family: 'Lenga Black Ultra', sans-serif !important;
+}
